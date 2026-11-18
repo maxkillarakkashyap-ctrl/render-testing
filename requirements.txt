@@ -1,0 +1,7 @@
+# Telegram bot framework
+python-telegram-bot==22.5
+
+# Optional voice-chat streaming used by lovetg.py
+Pyrogram==2.0.106
+py-tgcalls==2.2.10
+TgCrypto==1.2.5
